@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio-finalized/static/css/main.4fd3c5fc.css",
+    "main.js": "/personal-portfolio-finalized/static/js/main.c3726244.js",
+    "static/js/787.2b7a109e.chunk.js": "/personal-portfolio-finalized/static/js/787.2b7a109e.chunk.js",
+    "static/media/Loopvideo.mp4": "/personal-portfolio-finalized/static/media/Loopvideo.2f5df71a1eb29d09d24b.mp4",
+    "static/media/To do list.png": "/personal-portfolio-finalized/static/media/To do list.c54f1c4f4bc045d47419.png",
+    "static/media/kitchen recipes.png": "/personal-portfolio-finalized/static/media/kitchen recipes.49d71cfd8d91aad3685b.png",
+    "static/media/Canva_icon.png": "/personal-portfolio-finalized/static/media/Canva_icon.c88ac1982d7920d64498.png",
+    "static/media/protrait.png": "/personal-portfolio-finalized/static/media/protrait.b061cbaf2ff9e83a1d4c.png",
+    "static/media/Walnut_2.png": "/personal-portfolio-finalized/static/media/Walnut_2.46b6c555d3f1b189e299.png",
+    "static/media/OZB Group_edited.png": "/personal-portfolio-finalized/static/media/OZB Group_edited.78bfed8cc251267632ec.png",
+    "static/media/Book-horizontal.png": "/personal-portfolio-finalized/static/media/Book-horizontal.1d77754cad7da77c9f73.png",
+    "static/media/Personal_picture.png": "/personal-portfolio-finalized/static/media/Personal_picture.6c9f7506c2408454ffbd.png",
+    "static/media/react.png": "/personal-portfolio-finalized/static/media/react.86c8d9eba03e29814d2a.png",
+    "static/media/github.png": "/personal-portfolio-finalized/static/media/github.d3263084234dc705b2ae.png",
+    "static/media/instagram.png": "/personal-portfolio-finalized/static/media/instagram.b4ff9be06a8f84fada1b.png",
+    "static/media/photoshop.png": "/personal-portfolio-finalized/static/media/photoshop.047cad202c4a70579aa2.png",
+    "static/media/linkedin.png": "/personal-portfolio-finalized/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "static/media/css-3.png": "/personal-portfolio-finalized/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "static/media/html-5.png": "/personal-portfolio-finalized/static/media/html-5.ff3cf75e3b7cbb4ea77c.png",
+    "static/media/js.png": "/personal-portfolio-finalized/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/people-half-fill.svg": "/personal-portfolio-finalized/static/media/people-half-fill.28fb3f80572aa5884b3bd6be124538b2.svg",
+    "static/media/arrow-decline.svg": "/personal-portfolio-finalized/static/media/arrow-decline.12cccdee617898887697f4995536fed1.svg",
+    "static/media/book-open-reader.svg": "/personal-portfolio-finalized/static/media/book-open-reader.7ea2608c6f9a9f8a1f61f0f2d966b73f.svg",
+    "static/media/people-icon.svg": "/personal-portfolio-finalized/static/media/people-icon.38e8c150e1d4a1840c7e8da522f11633.svg",
+    "index.html": "/personal-portfolio-finalized/index.html",
+    "static/media/home.svg": "/personal-portfolio-finalized/static/media/home.1a89b86cad885762a9b58cef4f97cb2a.svg",
+    "static/media/envelope.svg": "/personal-portfolio-finalized/static/media/envelope.54a1c4369a0e5baf01d56a438a9e9ff8.svg",
+    "static/media/user.svg": "/personal-portfolio-finalized/static/media/user.1b8696f80c1ff49b4b81897c988030c8.svg",
+    "static/media/menu-burger.svg": "/personal-portfolio-finalized/static/media/menu-burger.877a4f0c0e78ed9773bf2b3481c0d518.svg",
+    "main.4fd3c5fc.css.map": "/personal-portfolio-finalized/static/css/main.4fd3c5fc.css.map",
+    "main.c3726244.js.map": "/personal-portfolio-finalized/static/js/main.c3726244.js.map",
+    "787.2b7a109e.chunk.js.map": "/personal-portfolio-finalized/static/js/787.2b7a109e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fd3c5fc.css",
+    "static/js/main.c3726244.js"
+  ]
+}
